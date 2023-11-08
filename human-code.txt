@@ -1,0 +1,74 @@
+1)	sono davanti al frigorifero
+    
+    allungo la mano dx verso la maniglia del frigorifero:
+        afferro la maniglia del frigorifero
+        tiro la maniglia del frigorifero verso di me
+        apro il frigorifero
+        tolgo la mano destra dalla maniglia
+2)	allungo la mano destra verso la tasca destra del pantalone
+    estraggo lo smartphone dalla tasca
+		sblocco lo smartphone
+        cerco app Note
+        apro app Note
+        controllo la nota con la to-do della lista della spesa settimanale
+        controllo che nella to-do list sia presente la voce "Crocchette per Ricky"
+
+        
+            osservo i prodotti presenti in frigorifero
+        caso A: se (IF) il prodotto della liste settimanale e' presente in frigorifero, (THEN) lo spunto nella to-do in app Note;
+        caso B: se il prodotto NON e' presente in frigorifero, lascio la casella vuota
+        
+        una volta controllato tutti i prodotti nel frigorifero e eventualmente averli spuntati (o no) 
+        chiudiamo l'app
+
+        chiudo il frigorifero:
+            spingo lo sportello del frigorifero in avanti fino a chiuderlo
+            lascio la presa dalla maniglia del frigorifero
+
+        spengo lo schermo dello smartphone
+        metto lo smartphone nella tasca destra
+
+3)  mi preparo per uscire di casa
+        
+        mi preparo per uscire:
+            -mi lavo
+            -mi cambio
+        
+        mi assicuro di avere con me cio' che mi serve per fare la spesa:
+            -portafogli con contanti
+            -coupon
+            -smartphone
+            -chiavi di casa
+
+        mi dirigo verso la porta d'uscita di casa
+        esco di casa
+
+4)  mi dirigo al supermercato a piedi
+
+5)  entro nel supermercato
+        prendo un carrello
+
+6)  giro tra gli scaffali con la to-do list a portata di mano
+        se il prodotto non e' spuntato lo metto nel carrello e metto la spunta
+        se il prodotto e' spuntato passo al punto della to-do list successivo
+        ripeto fino alla fine della lista
+
+7)  mi dirigo verso la cassa per pagare
+        prendo gli articoli dal carrello
+        li ripongo sulla cassa
+
+8)  pago cio' che ho comprato assicurandomi di dare il coupon che ho portato con me al cassiere
+        prendo il portafogli che ho portato con me in tasca
+        estraggo i contanti
+        estraggo il coupon
+        attendo che la cassiera faccia il conto
+        do contanti e coupon alla cassiera
+        rimetto il portafogli nella tasca destra
+        prendo una busta
+        ripongo la spesa in una busta
+        rimetto apposto il carrello della spesa
+        afferro la busta
+
+9)  mi dirigo verso l'uscita del supermercato
+
+10) torno a casa ripercorrendo la strada dell'andata
